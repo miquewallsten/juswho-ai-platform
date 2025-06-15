@@ -1,2 +1,3 @@
-# juswho-ai-platform
-AI-powered identity verification platform for LATAM
+# JusWho AI Platform
+
+Instructions will go here.
